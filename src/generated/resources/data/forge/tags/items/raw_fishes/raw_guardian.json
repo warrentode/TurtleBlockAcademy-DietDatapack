@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "oceansdelight:guardian_tail",
+      "required": false
+    },
+    {
+      "id": "oceansdelight:guardian",
+      "required": false
+    }
+  ]
+}

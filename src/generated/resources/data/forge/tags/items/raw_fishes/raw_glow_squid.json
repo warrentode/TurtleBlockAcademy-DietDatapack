@@ -1,0 +1,20 @@
+{
+  "values": [
+    {
+      "id": "oceansdelight:cut_tentacles",
+      "required": false
+    },
+    {
+      "id": "oceansdelight:tentacles",
+      "required": false
+    },
+    {
+      "id": "miners_delight:tentacles",
+      "required": false
+    },
+    {
+      "id": "oceansdelight:glow_squid",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+    "replace": false,
+    "groups": [
+        "fruits",
+        "vegetables",
+        "grains",
+        "proteins",
+        "fats",
+        "sugars"
+    ],
+    "effects": [
+        {
+            "status_effects": [
+                {
+                    "name": "minecraft:hunger",
+                    "power": 3
+                },
+                {
+                    "name": "minecraft:weakness",
+                    "power": 1
+                },
+                {
+                    "name": "minecraft:slowness",
+                    "power": 1
+                },
+                {
+                    "name": "minecraft:mining_fatigue",
+                    "power": 1
+                }
+            ],
+            "conditions": [
+                {
+                    "groups": ["sugars", "fats"],
+                    "match": "average",
+                    "above": 0.8,
+                    "below": 1.0
+                }
+            ]
+        },
+        {
+            "status_effects": [
+                {
+                    "name": "minecraft:hunger",
+                    "power": 3
+                },
+                {
+                    "name": "minecraft:weakness",
+                    "power": 1
+                },
+                {
+                    "name": "minecraft:slowness",
+                    "power": 1
+                },
+                {
+                    "name": "minecraft:mining_fatigue",
+                    "power": 1
+                }
+            ],
+            "conditions": [
+                {
+                    "groups": ["proteins", "fats"],
+                    "match": "every",
+                    "below": 0.25
+                },
+                {
+                    "groups": ["fruits", "vegetables", "grains", "sugars"],
+                    "match": "average",
+                    "below": 0.35
+                }
+            ]
+        },
+        {
+            "status_effects": [
+                {
+                    "name": "minecraft:absorption",
+                    "power": 1
+                },
+                {
+                    "name": "minecraft:regeneration",
+                    "power": 1
+                },
+                {
+                    "name": "minecraft:resistance",
+                    "power": 1
+                }
+            ],
+            "conditions": [
+                {
+                    "groups": ["proteins", "fats"],
+                    "match": "average",
+                    "above": 0.25,
+                    "below": 0.4
+                },
+                {
+                    "groups": ["fruits", "vegetables", "grains", "sugars"],
+                    "match": "average",
+                    "above": 0.35,
+                    "below": 0.55
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "tconstruct:bacon",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:bacon",
+      "required": false
+    }
+  ]
+}

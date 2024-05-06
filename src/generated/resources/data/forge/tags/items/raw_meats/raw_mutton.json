@@ -1,0 +1,9 @@
+{
+  "values": [
+    "minecraft:mutton",
+    {
+      "id": "farmersdelight:mutton_chops",
+      "required": false
+    }
+  ]
+}

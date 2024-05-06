@@ -1,0 +1,17 @@
+{
+  "values": [
+    "minecraft:milk_bucket",
+    {
+      "id": "farmersdelight:milk_bottle",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:condensed_milk",
+      "required": false
+    },
+    {
+      "id": "aether:skyroot_milk_bucket",
+      "required": false
+    }
+  ]
+}

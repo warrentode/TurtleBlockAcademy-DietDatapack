@@ -1,0 +1,14 @@
+{
+  "values": [
+    "minecraft:porkchop",
+    "#forge:raw_pork/raw_bacon",
+    {
+      "id": "farmersdelight:ham",
+      "required": false
+    },
+    {
+      "id": "nethersdelight:ham",
+      "required": false
+    }
+  ]
+}

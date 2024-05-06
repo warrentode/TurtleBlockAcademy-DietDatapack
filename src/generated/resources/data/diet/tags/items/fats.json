@@ -1,0 +1,59 @@
+{
+  "replace": true,
+  "values": [
+    "#forge:ingredients/fatty_meats",
+    "#turtleblockacademy:fat",
+    {
+      "id": "simplefarming:olive_oil",
+      "required": false
+    },
+    {
+      "id": "vanillafoodpantry:seedoil_jar",
+      "required": false
+    },
+    {
+      "id": "vanillafoodpantry:sunbutter_jar",
+      "required": false
+    },
+    {
+      "id": "vanillafoodpantry:portion_butter",
+      "required": false
+    },
+    {
+      "id": "pamhc2foodcore:mayonaiseitem",
+      "required": false
+    },
+    {
+      "id": "pamhc2foodcore:sesameoilitem",
+      "required": false
+    },
+    {
+      "id": "pamhc2foodcore:mushroomoilitem",
+      "required": false
+    },
+    {
+      "id": "pamhc2foodcore:cookingoilitem",
+      "required": false
+    },
+    {
+      "id": "pamhc2foodcore:butteritem",
+      "required": false
+    },
+    {
+      "id": "croptopia:butter",
+      "required": false
+    },
+    {
+      "id": "croptopia:olive_oil",
+      "required": false
+    },
+    {
+      "id": "delightful:animal_oil_bottle",
+      "required": false
+    },
+    {
+      "id": "delightful:animal_fat",
+      "required": false
+    }
+  ]
+}

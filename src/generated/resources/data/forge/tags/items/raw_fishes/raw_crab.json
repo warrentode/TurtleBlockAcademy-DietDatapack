@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "ecologics:crab_claw",
+      "required": false
+    },
+    {
+      "id": "crabbersdelight:crab",
+      "required": false
+    }
+  ]
+}

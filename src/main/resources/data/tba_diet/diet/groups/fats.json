@@ -1,0 +1,9 @@
+{
+  "icon": "delightful:animal_fat",
+  "color": "#ffebcd",
+  "order": 5,
+  "default_value": 0.25,
+  "gain_multiplier": 1.0,
+  "decay_multiplier": 1.0,
+  "beneficial": true
+}

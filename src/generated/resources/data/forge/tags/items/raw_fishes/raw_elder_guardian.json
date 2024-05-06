@@ -1,0 +1,13 @@
+{
+  "values": [
+    "#forge:raw_fishes/raw_guardian",
+    {
+      "id": "oceansdelight:elder_guardian_slice",
+      "required": false
+    },
+    {
+      "id": "oceansdelight:elder_guardian_slab",
+      "required": false
+    }
+  ]
+}
