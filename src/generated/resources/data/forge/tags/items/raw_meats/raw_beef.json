@@ -1,9 +1,0 @@
-{
-  "values": [
-    "minecraft:beef",
-    {
-      "id": "farmersdelight:minced_beef",
-      "required": false
-    }
-  ]
-}

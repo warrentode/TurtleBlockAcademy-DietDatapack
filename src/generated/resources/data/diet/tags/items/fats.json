@@ -1,8 +1,36 @@
 {
-  "replace": true,
   "values": [
-    "#forge:ingredients/fatty_meats",
-    "#turtleblockacademy:fat",
+    {
+      "id": "delightful:goat",
+      "required": false
+    },
+    "minecraft:mutton",
+    {
+      "id": "farmersdelight:mutton_chops",
+      "required": false
+    },
+    "minecraft:beef",
+    {
+      "id": "farmersdelight:minced_beef",
+      "required": false
+    },
+    {
+      "id": "tconstruct:bacon",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:bacon",
+      "required": false
+    },
+    {
+      "id": "delightful:goat",
+      "required": false
+    },
+    "minecraft:porkchop",
+    {
+      "id": "farmersdelight:ham",
+      "required": false
+    },
     {
       "id": "simplefarming:olive_oil",
       "required": false

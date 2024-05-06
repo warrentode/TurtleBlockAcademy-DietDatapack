@@ -1,5 +1,16 @@
 {
   "values": [
-    "#forge:crops/grains"
+    {
+      "id": "hauntedharvest:corn",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:rice",
+      "required": false
+    },
+    {
+      "id": "xercamod:rice",
+      "required": false
+    }
   ]
 }

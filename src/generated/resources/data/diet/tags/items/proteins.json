@@ -1,5 +1,109 @@
 {
   "values": [
-    "#forge:ingredients/proteins"
+    "minecraft:milk_bucket",
+    {
+      "id": "farmersdelight:milk_bottle",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:condensed_milk",
+      "required": false
+    },
+    {
+      "id": "aether:skyroot_milk_bucket",
+      "required": false
+    },
+    {
+      "id": "oceansdelight:cut_tentacles",
+      "required": false
+    },
+    {
+      "id": "oceansdelight:tentacles",
+      "required": false
+    },
+    {
+      "id": "miners_delight:tentacles",
+      "required": false
+    },
+    {
+      "id": "oceansdelight:glow_squid",
+      "required": false
+    },
+    {
+      "id": "oceansdelight:cut_tentacles",
+      "required": false
+    },
+    {
+      "id": "oceansdelight:tentacles",
+      "required": false
+    },
+    {
+      "id": "miners_delight:tentacles",
+      "required": false
+    },
+    {
+      "id": "oceansdelight:squid",
+      "required": false
+    },
+    {
+      "id": "ecologics:crab_claw",
+      "required": false
+    },
+    {
+      "id": "crabbersdelight:crab",
+      "required": false
+    },
+    {
+      "id": "crabbersdelight:clam_meat",
+      "required": false
+    },
+    {
+      "id": "crabbersdelight:shrimp",
+      "required": false
+    },
+    {
+      "id": "crabbersdelight:clawster",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:mutton_chops",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:minced_beef",
+      "required": false
+    },
+    {
+      "id": "tconstruct:bacon",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:bacon",
+      "required": false
+    },
+    {
+      "id": "delightful:goat",
+      "required": false
+    },
+    {
+      "id": "delightful:venison",
+      "required": false
+    },
+    {
+      "id": "oceansdelight:guardian_tail",
+      "required": false
+    },
+    {
+      "id": "oceansdelight:guardian",
+      "required": false
+    },
+    {
+      "id": "oceansdelight:elder_guardian_slice",
+      "required": false
+    },
+    {
+      "id": "oceansdelight:elder_guardian_slab",
+      "required": false
+    }
   ]
 }

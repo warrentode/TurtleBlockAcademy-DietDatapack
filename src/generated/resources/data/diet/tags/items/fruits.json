@@ -1,5 +1,129 @@
 {
   "values": [
-    "#forge:crops/fruits"
+    {
+      "id": "nethersdelight:propelpearl",
+      "required": false
+    },
+    "minecraft:pumpkin",
+    {
+      "id": "farmersdelight:tomato",
+      "required": false
+    },
+    {
+      "id": "xercamod:tomato",
+      "required": false
+    },
+    {
+      "id": "wildberries:cranberry_pie_slice",
+      "required": false
+    },
+    {
+      "id": "wildberries:blackberry_pie_slice",
+      "required": false
+    },
+    {
+      "id": "wildberries:raspberry_pie_slice",
+      "required": false
+    },
+    {
+      "id": "wildberries:blueberry_pie_slice",
+      "required": false
+    },
+    {
+      "id": "wildberries:glow_berry_pie_slice",
+      "required": false
+    },
+    {
+      "id": "wildberries:sweet_berry_pie_slice",
+      "required": false
+    },
+    {
+      "id": "wildberries:cranberry_muffin",
+      "required": false
+    },
+    {
+      "id": "wildberries:blackberry_muffin",
+      "required": false
+    },
+    {
+      "id": "wildberries:raspberry_muffin",
+      "required": false
+    },
+    {
+      "id": "wildberries:blueberry_muffin",
+      "required": false
+    },
+    {
+      "id": "wildberries:glow_berry_muffin",
+      "required": false
+    },
+    {
+      "id": "wildberries:sweet_berry_muffin",
+      "required": false
+    },
+    {
+      "id": "wildberries:cranberry_jam_sandwich",
+      "required": false
+    },
+    {
+      "id": "wildberries:blackberry_jam_sandwich",
+      "required": false
+    },
+    {
+      "id": "wildberries:raspberry_jam_sandwich",
+      "required": false
+    },
+    {
+      "id": "wildberries:blueberry_jam_sandwich",
+      "required": false
+    },
+    {
+      "id": "wildberries:glow_berry_jam_sandwich",
+      "required": false
+    },
+    {
+      "id": "wildberries:sweet_berry_jam_sandwich",
+      "required": false
+    },
+    {
+      "id": "wildberries:cranberry_jam",
+      "required": false
+    },
+    {
+      "id": "wildberries:blackberry_jam",
+      "required": false
+    },
+    {
+      "id": "wildberries:raspberry_jam",
+      "required": false
+    },
+    {
+      "id": "wildberries:blueberry_jam",
+      "required": false
+    },
+    {
+      "id": "wildberries:glow_berry_jam",
+      "required": false
+    },
+    {
+      "id": "wildberries:sweet_berry_jam",
+      "required": false
+    },
+    {
+      "id": "wildberries:cranberries",
+      "required": false
+    },
+    {
+      "id": "wildberries:blackberry",
+      "required": false
+    },
+    {
+      "id": "wildberries:raspberry",
+      "required": false
+    },
+    {
+      "id": "wildberries:blueberries",
+      "required": false
+    }
   ]
 }
