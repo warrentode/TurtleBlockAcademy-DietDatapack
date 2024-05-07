@@ -1,5 +1,527 @@
 {
   "values": [
+    {
+      "id": "ends_delight:grilled_shulker",
+      "required": false
+    },
+    {
+      "id": "unusualend:ender_firefly_egg",
+      "required": false
+    },
+    {
+      "id": "aetherdelight:cooked_aerfilet",
+      "required": false
+    },
+    {
+      "id": "aetherdelight:raw_aerfilet",
+      "required": false
+    },
+    {
+      "id": "nethersdelight:ground_strider",
+      "required": false
+    },
+    {
+      "id": "nethersdelight:strider_slice",
+      "required": false
+    },
+    {
+      "id": "nethersdelight:hoglin_sirloin",
+      "required": false
+    },
+    {
+      "id": "nethersdelight:hoglin_loin",
+      "required": false
+    },
+    {
+      "id": "nethersdelight:hoglin_ear",
+      "required": false
+    },
+    {
+      "id": "nethersdelight:plate_of_stuffed_hoglin_snout",
+      "required": false
+    },
+    {
+      "id": "nethersdelight:plate_of_stuffed_hoglin_ham",
+      "required": false
+    },
+    {
+      "id": "nethersdelight:plate_of_stuffed_hoglin_roast",
+      "required": false
+    },
+    {
+      "id": "aether:golden_gummy_swet",
+      "required": false
+    },
+    {
+      "id": "aether:blue_gummy_swet",
+      "required": false
+    },
+    {
+      "id": "festive_delight:festive_chiken",
+      "required": false
+    },
+    {
+      "id": "ends_delight:dragon_meat_stew",
+      "required": false
+    },
+    {
+      "id": "ends_delight:steamed_dragon_egg",
+      "required": false
+    },
+    {
+      "id": "ends_delight:dragon_leg_with_sauce",
+      "required": false
+    },
+    {
+      "id": "eggdelight:smoked_ham_omelet",
+      "required": false
+    },
+    {
+      "id": "eggdelight:salmon_omelet",
+      "required": false
+    },
+    {
+      "id": "eggdelight:mutton_omelet",
+      "required": false
+    },
+    {
+      "id": "eggdelight:cod_omelet",
+      "required": false
+    },
+    {
+      "id": "eggdelight:chicken_omelet",
+      "required": false
+    },
+    {
+      "id": "eggdelight:beef_omelet",
+      "required": false
+    },
+    {
+      "id": "eggdelight:bacon_omelet",
+      "required": false
+    },
+    {
+      "id": "eggdelight:scrambled_egg",
+      "required": false
+    },
+    {
+      "id": "eggdelight:sliced_boiled_egg",
+      "required": false
+    },
+    {
+      "id": "eggdelight:peeled_boiled_egg",
+      "required": false
+    },
+    {
+      "id": "eggdelight:boiled_egg",
+      "required": false
+    },
+    {
+      "id": "aetherdelight:swet_syrup",
+      "required": false
+    },
+    {
+      "id": "tconstruct:sky_slime_ball",
+      "required": false
+    },
+    {
+      "id": "tconstruct:ichor_slime_ball",
+      "required": false
+    },
+    {
+      "id": "tconstruct:ender_slime_ball",
+      "required": false
+    },
+    {
+      "id": "snowyspirit:eggnog",
+      "required": false
+    },
+    {
+      "id": "oceansdelight:tentacle_on_a_stick",
+      "required": false
+    },
+    {
+      "id": "oceansdelight:stuffed_cod",
+      "required": false
+    },
+    {
+      "id": "oceansdelight:squid_rings",
+      "required": false
+    },
+    {
+      "id": "oceansdelight:cabbage_wrapped_elder_guardian",
+      "required": false
+    },
+    {
+      "id": "oceansdelight:braised_sea_pickle",
+      "required": false
+    },
+    {
+      "id": "nethersdelight:warped_moldy_meat",
+      "required": false
+    },
+    {
+      "id": "nethersdelight:strider_moss_stew",
+      "required": false
+    },
+    {
+      "id": "nethersdelight:nether_skewer",
+      "required": false
+    },
+    {
+      "id": "nethersdelight:magma_gelatin",
+      "required": false
+    },
+    {
+      "id": "nethersdelight:grilled_strider",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:pumpkin_soup",
+      "required": false
+    },
+    {
+      "id": "miners_delight:pumpkin_soup_cup",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:vegetable_soup",
+      "required": false
+    },
+    {
+      "id": "miners_delight:vegetable_soup_cup",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:hot_cocoa",
+      "required": false
+    },
+    {
+      "id": "miners_delight:hot_cocoa_cup",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:fish_stew",
+      "required": false
+    },
+    {
+      "id": "miners_delight:fish_stew_cup",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:chicken_soup",
+      "required": false
+    },
+    {
+      "id": "miners_delight:chicken_soup_cup",
+      "required": false
+    },
+    {
+      "id": "miners_delight:beef_stew_cup",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:noodle_soup_cup",
+      "required": false
+    },
+    {
+      "id": "miners_delight:noodle_soup_cup",
+      "required": false
+    },
+    {
+      "id": "miners_delight:baked_cod_stew_cup",
+      "required": false
+    },
+    {
+      "id": "miners_delight:rabbit_stew_cup",
+      "required": false
+    },
+    {
+      "id": "miners_delight:bowl_of_stuffed_squid",
+      "required": false
+    },
+    {
+      "id": "miners_delight:improvised_barbecue_stick",
+      "required": false
+    },
+    {
+      "id": "miners_delight:milk_cup",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:white_chocolate_bar",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:sweet_berry_milkshake",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:piece_of_honey_cheese_cake",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:piece_of_chocolate_cheese_cake",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:piece_of_cheese_cake",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:napolitano_ice_cream",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:napolitano_milkshake",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:mocha_milkshake",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:mocha_ice_cream",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:milk_chocolate_bar",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:glow_berry_milkshake",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:cream_milkshake",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:cookie_of_unbinding",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:coffee_milkshake",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:chocolate_milkshake",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:brigadeiro_mix",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:brigadeiro",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:beijinho",
+      "required": false
+    },
+    {
+      "id": "hauntedharvest:succotash",
+      "required": false
+    },
+    {
+      "id": "festive_delight:salmon_verrines",
+      "required": false
+    },
+    {
+      "id": "festive_delight:longevity_noodle",
+      "required": false
+    },
+    {
+      "id": "ends_delight:stir_fried_shulker_meat",
+      "required": false
+    },
+    {
+      "id": "ends_delight:fried_dragon_egg",
+      "required": false
+    },
+    {
+      "id": "ends_delight:liquid_dragon_egg",
+      "required": false
+    },
+    {
+      "id": "ends_delight:non_hatchable_dragon_egg",
+      "required": false
+    },
+    {
+      "id": "ends_delight:ender_pearl_grain",
+      "required": false
+    },
+    {
+      "id": "ends_delight:dried_endermite_meat",
+      "required": false
+    },
+    {
+      "id": "ends_delight:raw_ender_mite_meat",
+      "required": false
+    },
+    {
+      "id": "ends_delight:end_barbecue_stick",
+      "required": false
+    },
+    {
+      "id": "ends_delight:dragon_breath_and_chorus_soup",
+      "required": false
+    },
+    {
+      "id": "ends_delight:chorus_fruit_milk_tea",
+      "required": false
+    },
+    {
+      "id": "ends_delight:bubble_tea",
+      "required": false
+    },
+    {
+      "id": "eggdelight:egg_pie_slice",
+      "required": false
+    },
+    {
+      "id": "eggdelight:egg_in_basket",
+      "required": false
+    },
+    {
+      "id": "eggdelight:bacon_and_egg_cup",
+      "required": false
+    },
+    {
+      "id": "drinkbeer:beer_mug_night_howl_kvass",
+      "required": false
+    },
+    {
+      "id": "crabbersdelight:surf_and_turf",
+      "required": false
+    },
+    {
+      "id": "crabbersdelight:stuffed_nautilus_shell",
+      "required": false
+    },
+    {
+      "id": "crabbersdelight:shrimp_skewer",
+      "required": false
+    },
+    {
+      "id": "crabbersdelight:seafood_gumbo",
+      "required": false
+    },
+    "minecraft:tropical_fish",
+    "minecraft:pufferfish",
+    {
+      "id": "crabbersdelight:crab_cakes",
+      "required": false
+    },
+    {
+      "id": "crabbersdelight:clam_chowder",
+      "required": false
+    },
+    {
+      "id": "crabbersdelight:clam_bake",
+      "required": false
+    },
+    {
+      "id": "crabbersdelight:bisque",
+      "required": false
+    },
+    {
+      "id": "aetherdelight:swet_pudding",
+      "required": false
+    },
+    {
+      "id": "aetherdelight:sweet_and_sour_soup",
+      "required": false
+    },
+    {
+      "id": "aether:aechor_petal",
+      "required": false
+    },
+    {
+      "id": "miners_delight:bat_wing",
+      "required": false
+    },
+    {
+      "id": "miners_delight:smoked_bat_wing",
+      "required": false
+    },
+    {
+      "id": "miners_delight:silverfish_eggs",
+      "required": false
+    },
+    {
+      "id": "miners_delight:weird_caviar",
+      "required": false
+    },
+    {
+      "id": "miners_delight:squid",
+      "required": false
+    },
+    {
+      "id": "miners_delight:glow_squid",
+      "required": false
+    },
+    {
+      "id": "miners_delight:baked_squid",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:cream_cheese",
+      "required": false
+    },
+    {
+      "id": "ends_delight:dragon_leg",
+      "required": false
+    },
+    {
+      "id": "ends_delight:smoked_dragon_leg",
+      "required": false
+    },
+    {
+      "id": "ends_delight:raw_dragon_meat",
+      "required": false
+    },
+    {
+      "id": "ends_delight:raw_dragon_meat_cuts",
+      "required": false
+    },
+    {
+      "id": "ends_delight:roasted_dragon_meat",
+      "required": false
+    },
+    {
+      "id": "ends_delight:roasted_dragon_steak",
+      "required": false
+    },
+    {
+      "id": "ends_delight:roasted_dragon_meat_cuts",
+      "required": false
+    },
+    {
+      "id": "ends_delight:dragon_breath_soda",
+      "required": false
+    },
+    {
+      "id": "ends_delight:roasted_shulker_meat",
+      "required": false
+    },
+    {
+      "id": "ends_delight:shulker_meat",
+      "required": false
+    },
+    {
+      "id": "ends_delight:shulker_meat_slice",
+      "required": false
+    },
+    {
+      "id": "artifacts:eternal_steak",
+      "required": false
+    },
+    {
+      "id": "artifacts:everlasting_beef",
+      "required": false
+    },
     "minecraft:milk_bucket",
     {
       "id": "farmersdelight:milk_bottle",
@@ -26,6 +548,10 @@
       "required": false
     },
     {
+      "id": "miners_delight:baked_tentacles",
+      "required": false
+    },
+    {
       "id": "oceansdelight:glow_squid",
       "required": false
     },
@@ -46,11 +572,59 @@
       "required": false
     },
     {
+      "id": "ecologics:walnut",
+      "required": false
+    },
+    {
       "id": "ecologics:crab_claw",
       "required": false
     },
     {
+      "id": "ecologics:crab_meat",
+      "required": false
+    },
+    {
+      "id": "ecologics:tropical_stew",
+      "required": false
+    },
+    {
       "id": "crabbersdelight:crab",
+      "required": false
+    },
+    {
+      "id": "crabbersdelight:cooked_crab",
+      "required": false
+    },
+    {
+      "id": "crabbersdelight:crab_legs",
+      "required": false
+    },
+    {
+      "id": "crabbersdelight:fish_stick",
+      "required": false
+    },
+    {
+      "id": "crabbersdelight:pufferfish_slice",
+      "required": false
+    },
+    {
+      "id": "crabbersdelight:cooked_pufferfish_slice",
+      "required": false
+    },
+    {
+      "id": "crabbersdelight:tropical_fish_slice",
+      "required": false
+    },
+    {
+      "id": "crabbersdelight:cooked_tropical_fish_slice",
+      "required": false
+    },
+    {
+      "id": "crabbersdelight:cooked_tropical_fish",
+      "required": false
+    },
+    {
+      "id": "crabbersdelight:raw_clam_meat",
       "required": false
     },
     {
@@ -62,7 +636,15 @@
       "required": false
     },
     {
+      "id": "crabbersdelight:cooked_shrimp",
+      "required": false
+    },
+    {
       "id": "crabbersdelight:clawster",
+      "required": false
+    },
+    {
+      "id": "crabbersdelight:cooked_clawster",
       "required": false
     },
     {
@@ -82,15 +664,19 @@
       "required": false
     },
     {
-      "id": "delightful:goat",
+      "id": "delightful:raw_goat",
       "required": false
     },
     {
-      "id": "delightful:venison",
+      "id": "delightful:venison_chops",
       "required": false
     },
     {
       "id": "oceansdelight:guardian_tail",
+      "required": false
+    },
+    {
+      "id": "oceansdelight:cooked_stuffed_cod",
       "required": false
     },
     {
@@ -99,6 +685,18 @@
     },
     {
       "id": "oceansdelight:elder_guardian_slice",
+      "required": false
+    },
+    {
+      "id": "oceansdelight:elder_guardian_roll",
+      "required": false
+    },
+    {
+      "id": "oceansdelight:fugu_roll",
+      "required": false
+    },
+    {
+      "id": "oceansdelight:fugu_slice",
       "required": false
     },
     {

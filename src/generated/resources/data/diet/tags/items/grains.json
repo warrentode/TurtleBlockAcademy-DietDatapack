@@ -1,7 +1,287 @@
 {
   "values": [
     {
+      "id": "aetherdelight:enchanted_pie_slice",
+      "required": false
+    },
+    {
+      "id": "aetherdelight:blueberry_pie_slice",
+      "required": false
+    },
+    {
+      "id": "festive_delight:festive_chiken",
+      "required": false
+    },
+    {
+      "id": "aether:gingerbread_man",
+      "required": false
+    },
+    {
+      "id": "aetherdelight:bowl_of_ginger_cookies",
+      "required": false
+    },
+    {
+      "id": "snowyspirit:gingerbread_cookie",
+      "required": false
+    },
+    {
+      "id": "snowyspirit:gingerbread",
+      "required": false
+    },
+    {
+      "id": "oceansdelight:elder_guardian_roll",
+      "required": false
+    },
+    {
+      "id": "oceansdelight:fugu_roll",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:noodle_soup_cup",
+      "required": false
+    },
+    {
+      "id": "miners_delight:noodle_soup_cup",
+      "required": false
+    },
+    {
+      "id": "miners_delight:bowl_of_stuffed_squid",
+      "required": false
+    },
+    {
+      "id": "miners_delight:pasta_with_veggieballs",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:piece_of_honey_cheese_cake",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:piece_of_chocolate_cheese_cake",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:piece_of_cheese_cake",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:piece_of_cake",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:honey_cookie",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:golden_cookie",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:cookie_of_unbinding",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:chocolate_cookie",
+      "required": false
+    },
+    {
+      "id": "hauntedharvest:succotash",
+      "required": false
+    },
+    {
+      "id": "hauntedharvest:popcorn",
+      "required": false
+    },
+    {
+      "id": "hauntedharvest:corn_bread",
+      "required": false
+    },
+    {
+      "id": "festive_delight:longevity_noodle",
+      "required": false
+    },
+    {
+      "id": "ends_delight:stuffed_rice_cake",
+      "required": false
+    },
+    {
+      "id": "wildberries:cranberry_pie_slice",
+      "required": false
+    },
+    {
+      "id": "wildberries:blackberry_pie_slice",
+      "required": false
+    },
+    {
+      "id": "wildberries:raspberry_pie_slice",
+      "required": false
+    },
+    {
+      "id": "wildberries:blueberry_pie_slice",
+      "required": false
+    },
+    {
+      "id": "wildberries:glow_berry_pie_slice",
+      "required": false
+    },
+    {
+      "id": "wildberries:sweet_berry_pie_slice",
+      "required": false
+    },
+    {
+      "id": "wildberries:cranberry_muffin",
+      "required": false
+    },
+    {
+      "id": "wildberries:blackberry_muffin",
+      "required": false
+    },
+    {
+      "id": "wildberries:raspberry_muffin",
+      "required": false
+    },
+    {
+      "id": "wildberries:blueberry_muffin",
+      "required": false
+    },
+    {
+      "id": "wildberries:glow_berry_muffin",
+      "required": false
+    },
+    {
+      "id": "wildberries:sweet_berry_muffin",
+      "required": false
+    },
+    {
+      "id": "wildberries:cranberry_jam_sandwich",
+      "required": false
+    },
+    {
+      "id": "wildberries:blackberry_jam_sandwich",
+      "required": false
+    },
+    {
+      "id": "wildberries:raspberry_jam_sandwich",
+      "required": false
+    },
+    {
+      "id": "wildberries:blueberry_jam_sandwich",
+      "required": false
+    },
+    {
+      "id": "wildberries:glow_berry_jam_sandwich",
+      "required": false
+    },
+    {
+      "id": "wildberries:sweet_berry_jam_sandwich",
+      "required": false
+    },
+    {
+      "id": "ends_delight:chorus_fruit_pie_slice",
+      "required": false
+    },
+    {
+      "id": "ends_delight:chorus_cookie",
+      "required": false
+    },
+    {
+      "id": "eggdelight:egg_pie_slice",
+      "required": false
+    },
+    {
+      "id": "eggdelight:egg_in_basket",
+      "required": false
+    },
+    {
+      "id": "eggdelight:bread_slice",
+      "required": false
+    },
+    {
+      "id": "ecologics:tropical_stew",
+      "required": false
+    },
+    {
+      "id": "drinkbeer:beer_mug_sweet_berry_kriek",
+      "required": false
+    },
+    {
+      "id": "drinkbeer:beer_mug_pumpkin_kvass",
+      "required": false
+    },
+    {
+      "id": "drinkbeer:beer_mug_night_howl_kvass",
+      "required": false
+    },
+    {
+      "id": "drinkbeer:beer_mug_haars_icey_pale_lager",
+      "required": false
+    },
+    {
+      "id": "drinkbeer:beer_mug_blaze_stout",
+      "required": false
+    },
+    {
+      "id": "drinkbeer:beer_mug_blaze_milk_stout",
+      "required": false
+    },
+    {
+      "id": "drinkbeer:beer_mug_apple_lambic",
+      "required": false
+    },
+    {
+      "id": "drinkbeer:beer_mug",
+      "required": false
+    },
+    {
+      "id": "createaddition:honey_cake",
+      "required": false
+    },
+    {
+      "id": "createaddition:chocolate_cake",
+      "required": false
+    },
+    {
+      "id": "create:sweet_roll",
+      "required": false
+    },
+    {
+      "id": "crabbersdelight:seafood_gumbo",
+      "required": false
+    },
+    {
+      "id": "crabbersdelight:crab_cakes",
+      "required": false
+    },
+    {
+      "id": "crabbersdelight:bisque",
+      "required": false
+    },
+    {
+      "id": "aetherdelight:swet_pudding",
+      "required": false
+    },
+    {
+      "id": "aetherdelight:festive_sweets",
+      "required": false
+    },
+    {
+      "id": "create:wheat_flour",
+      "required": false
+    },
+    {
+      "id": "create:dough",
+      "required": false
+    },
+    {
       "id": "hauntedharvest:corn",
+      "required": false
+    },
+    {
+      "id": "hauntedharvest:kernels",
+      "required": false
+    },
+    {
+      "id": "hauntedharvest:popcorn",
       "required": false
     },
     {

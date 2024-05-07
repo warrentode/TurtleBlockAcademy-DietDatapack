@@ -1,9 +1,8 @@
-// 1.19.2	2024-05-06T17:30:33.4599769	Tags for minecraft:item
-6c74bfdadaf8ecabea6aa403c3c406066f46fd0e data/diet/tags/items/fats.json
-486de3413629c72585995473e8e8c9b21aad7a4b data/diet/tags/items/fruits.json
-81531ee6fe8895de2da99418ab807095451942d8 data/diet/tags/items/grains.json
-35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/diet/tags/items/ingredients.json
-42d73be947a41997477416feb69256066ab722d9 data/diet/tags/items/proteins.json
-35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/diet/tags/items/special_food.json
-ed10484707bf0ea9e3bb21e5439785b616cf2899 data/diet/tags/items/sugars.json
-16ff478e5aa001776baae8dbef6ff7fd68829d3f data/diet/tags/items/vegetables.json
+// 1.19.2	2024-05-07T02:29:52.8985983	Tags for minecraft:item
+65c6d7e3df1c3ce088d39ffc464977dbb94d29e0 data/diet/tags/items/fats.json
+8e9e830b3eb3f39c1ecc299396cc0cc8c1ab008e data/diet/tags/items/fruits.json
+28cf0cbbda3f29d3b9481d19cc166144d601664f data/diet/tags/items/grains.json
+717009ab2eee63ee1eab35bdf4d316e419b8b66a data/diet/tags/items/proteins.json
+c82f4d65bdff90c3a530fe4a669b096f0b56bb11 data/diet/tags/items/special_food.json
+e577e5d86eb39c80f7bfbd54073d6e5cb6adf0fc data/diet/tags/items/sugars.json
+b1cc6ce5f03c50dc16d2c637fb3f71287271d89d data/diet/tags/items/vegetables.json
