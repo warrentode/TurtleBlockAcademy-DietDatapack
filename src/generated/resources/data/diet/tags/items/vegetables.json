@@ -1,6 +1,476 @@
 {
   "values": [
     {
+      "id": "nethersdelight:plate_of_stuffed_hoglin_snout",
+      "required": false
+    },
+    {
+      "id": "nethersdelight:plate_of_stuffed_hoglin_ham",
+      "required": false
+    },
+    {
+      "id": "nethersdelight:plate_of_stuffed_hoglin_roast",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:brown_mushroom_colony",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:red_mushroom_colony",
+      "required": false
+    },
+    {
+      "id": "nethersdelight:warped_fungus_colony",
+      "required": false
+    },
+    {
+      "id": "nethersdelight:crimson_fungus_colony",
+      "required": false
+    },
+    {
+      "id": "domesticationinnovation:sinister_carrot",
+      "required": false
+    },
+    {
+      "id": "crabbersdelight:kelp_shake",
+      "required": false
+    },
+    {
+      "id": "ends_delight:dragon_meat_stew",
+      "required": false
+    },
+    {
+      "id": "ends_delight:steamed_dragon_egg",
+      "required": false
+    },
+    {
+      "id": "ends_delight:dragon_leg_with_sauce",
+      "required": false
+    },
+    {
+      "id": "aetherdelight:aether_flower_tea",
+      "required": false
+    },
+    {
+      "id": "unusualend:warped_wart",
+      "required": false
+    },
+    {
+      "id": "unusualend:wandering_stew",
+      "required": false
+    },
+    {
+      "id": "unusualend:flowering_purpur_grass",
+      "required": false
+    },
+    {
+      "id": "unusualend:chorus_stew",
+      "required": false
+    },
+    {
+      "id": "unusualend:chorus_tea",
+      "required": false
+    },
+    {
+      "id": "unusualend:chorus_roots",
+      "required": false
+    },
+    {
+      "id": "unusualend:chorus_pie",
+      "required": false
+    },
+    {
+      "id": "oceansdelight:seagrass_salad",
+      "required": false
+    },
+    {
+      "id": "oceansdelight:honey_fried_kelp",
+      "required": false
+    },
+    {
+      "id": "oceansdelight:cooked_stuffed_cod",
+      "required": false
+    },
+    {
+      "id": "oceansdelight:stuffed_cod",
+      "required": false
+    },
+    {
+      "id": "oceansdelight:cabbage_wrapped_elder_guardian",
+      "required": false
+    },
+    {
+      "id": "oceansdelight:braised_sea_pickle",
+      "required": false
+    },
+    {
+      "id": "nethersdelight:warped_moldy_meat",
+      "required": false
+    },
+    {
+      "id": "nethersdelight:strider_moss_stew",
+      "required": false
+    },
+    {
+      "id": "nethersdelight:mimicarnation",
+      "required": false
+    },
+    {
+      "id": "nethersdelight:grilled_strider",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:pumpkin_soup",
+      "required": false
+    },
+    {
+      "id": "miners_delight:pumpkin_soup_cup",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:vegetable_soup",
+      "required": false
+    },
+    {
+      "id": "miners_delight:vegetable_soup_cup",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:fish_stew",
+      "required": false
+    },
+    {
+      "id": "miners_delight:fish_stew_cup",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:chicken_soup",
+      "required": false
+    },
+    {
+      "id": "miners_delight:chicken_soup_cup",
+      "required": false
+    },
+    {
+      "id": "miners_delight:beef_stew_cup",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:baked_cod_stew",
+      "required": false
+    },
+    {
+      "id": "miners_delight:baked_cod_stew_cup",
+      "required": false
+    },
+    {
+      "id": "miners_delight:rabbit_stew_cup",
+      "required": false
+    },
+    {
+      "id": "miners_delight:mushroom_stew_cup",
+      "required": false
+    },
+    {
+      "id": "miners_delight:beetroot_soup_cup",
+      "required": false
+    },
+    {
+      "id": "miners_delight:bowl_of_stuffed_squid",
+      "required": false
+    },
+    {
+      "id": "miners_delight:pasta_with_veggieballs",
+      "required": false
+    },
+    {
+      "id": "miners_delight:cave_soup",
+      "required": false
+    },
+    {
+      "id": "miners_delight:cave_soup_cup",
+      "required": false
+    },
+    {
+      "id": "miners_delight:improvised_barbecue_stick",
+      "required": false
+    },
+    "minecraft:large_fern",
+    "minecraft:fern",
+    {
+      "id": "miners_delight:baked_cave_carrot",
+      "required": false
+    },
+    {
+      "id": "hauntedharvest:succotash",
+      "required": false
+    },
+    {
+      "id": "hauntedharvest:corn_bread",
+      "required": false
+    },
+    {
+      "id": "festive_delight:salmon_verrines",
+      "required": false
+    },
+    {
+      "id": "festive_delight:longevity_noodle",
+      "required": false
+    },
+    {
+      "id": "ends_delight:stir_fried_shulker_meat",
+      "required": false
+    },
+    {
+      "id": "ends_delight:grilled_shulker",
+      "required": false
+    },
+    {
+      "id": "ends_delight:ender_sauce",
+      "required": false
+    },
+    {
+      "id": "ends_delight:mixed_salad",
+      "required": false
+    },
+    {
+      "id": "ends_delight:assorted_salad",
+      "required": false
+    },
+    {
+      "id": "ecologics:tropical_stew",
+      "required": false
+    },
+    {
+      "id": "drinkbeer:beer_mug_pumpkin_kvass",
+      "required": false
+    },
+    {
+      "id": "crabbersdelight:surf_and_turf",
+      "required": false
+    },
+    {
+      "id": "crabbersdelight:stuffed_nautilus_shell",
+      "required": false
+    },
+    {
+      "id": "crabbersdelight:shrimp_skewer",
+      "required": false
+    },
+    {
+      "id": "crabbersdelight:crab_cakes",
+      "required": false
+    },
+    {
+      "id": "crabbersdelight:clam_chowder",
+      "required": false
+    },
+    {
+      "id": "crabbersdelight:clam_bake",
+      "required": false
+    },
+    {
+      "id": "crabbersdelight:bisque",
+      "required": false
+    },
+    {
+      "id": "aether:aechor_petal",
+      "required": false
+    },
+    {
+      "id": "friendsandfoes:buttercup",
+      "required": false
+    },
+    {
+      "id": "ecologics:coconut_slice",
+      "required": false
+    },
+    {
+      "id": "ecologics:coconut_leaves",
+      "required": false
+    },
+    {
+      "id": "ecologics:azalea_flower",
+      "required": false
+    },
+    {
+      "id": "delightful:cactus_flesh",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:pink_hibiscus",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:yellow_autumn_leaves",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:wilted_lily",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:willow_leaves",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:wildflower",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:white_cherry_leaves",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:violet",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:umbran_leaves",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:toadstool",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:tall_lavender",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:rose",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:redwood_leaves",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:rainbow_birch_leaves",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:pink_hibiscus",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:pink_daffodil",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:pink_cherry_leaves",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:palm_leaves",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:origin_leaves",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:orange_cosmos",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:orange_autumn_leaves",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:maple_leaves",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:mahogany_leaves",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:magic_leaves",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:lavender",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:jacaranda_leaves",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:icy_iris",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:hellbark_leaves",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:goldenrod",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:glow_shroom",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:glowflower",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:flowering_oak_leaves",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:fir_leaves",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:dead_leaves",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:burning_blossom",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:blue_hydrangea",
+      "required": false
+    },
+    {
+      "id": "aether:skyroot_leaves",
+      "required": false
+    },
+    {
+      "id": "aether:white_flower",
+      "required": false
+    },
+    {
+      "id": "aether:purple_flower",
+      "required": false
+    },
+    {
+      "id": "aether:golden_oak_leaves",
+      "required": false
+    },
+    {
+      "id": "aether:holiday_leaves",
+      "required": false
+    },
+    {
+      "id": "aether:decorated_holiday_leaves",
+      "required": false
+    },
+    {
+      "id": "aether:crystal_leaves",
+      "required": false
+    },
+    {
+      "id": "aether:crystal_fruit_leaves",
+      "required": false
+    },
+    {
       "id": "delightful:chopped_clover",
       "required": false
     },
@@ -13,11 +483,11 @@
       "id": "ecologics:prickly_pear",
       "required": false
     },
-    "minecraft:pumpkin",
     {
-      "id": "hauntedharvest:corn",
+      "id": "ecologics:cooked_prickly_pear",
       "required": false
     },
+    "minecraft:pumpkin",
     {
       "id": "ends_delight:chorus_succulent",
       "required": false
@@ -66,6 +536,10 @@
     "minecraft:brown_mushroom",
     "minecraft:crimson_fungus",
     "minecraft:warped_fungus",
+    {
+      "id": "phantasm:putac_brochette",
+      "required": false
+    },
     {
       "id": "phantasm:putac_shroom",
       "required": false

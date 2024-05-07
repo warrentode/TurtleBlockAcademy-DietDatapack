@@ -1,6 +1,122 @@
 {
   "values": [
     {
+      "id": "nethersdelight:hoglin_sirloin",
+      "required": false
+    },
+    {
+      "id": "nethersdelight:hoglin_loin",
+      "required": false
+    },
+    {
+      "id": "nethersdelight:hoglin_ear",
+      "required": false
+    },
+    {
+      "id": "nethersdelight:plate_of_stuffed_hoglin_snout",
+      "required": false
+    },
+    {
+      "id": "nethersdelight:plate_of_stuffed_hoglin_ham",
+      "required": false
+    },
+    {
+      "id": "nethersdelight:plate_of_stuffed_hoglin_roast",
+      "required": false
+    },
+    {
+      "id": "fastfooddelight:fried_onions",
+      "required": false
+    },
+    {
+      "id": "fastfooddelight:carrot_fries",
+      "required": false
+    },
+    {
+      "id": "fastfooddelight:french_fries",
+      "required": false
+    },
+    {
+      "id": "ends_delight:dragon_meat_stew",
+      "required": false
+    },
+    {
+      "id": "ends_delight:dragon_leg_with_sauce",
+      "required": false
+    },
+    {
+      "id": "eggdelight:smoked_ham_omelet",
+      "required": false
+    },
+    {
+      "id": "eggdelight:mutton_omelet",
+      "required": false
+    },
+    {
+      "id": "eggdelight:beef_omelet",
+      "required": false
+    },
+    {
+      "id": "eggdelight:bacon_omelet",
+      "required": false
+    },
+    {
+      "id": "hauntedharvest:succotash",
+      "required": false
+    },
+    {
+      "id": "ends_delight:roasted_dragon_steak",
+      "required": false
+    },
+    {
+      "id": "ends_delight:roasted_dragon_meat_cuts",
+      "required": false
+    },
+    {
+      "id": "ends_delight:raw_dragon_meat_cuts",
+      "required": false
+    },
+    {
+      "id": "ends_delight:raw_dragon_meat",
+      "required": false
+    },
+    {
+      "id": "ends_delight:roasted_dragon_meat",
+      "required": false
+    },
+    {
+      "id": "ends_delight:dragon_leg",
+      "required": false
+    },
+    {
+      "id": "ends_delight:smoked_dragon_leg",
+      "required": false
+    },
+    {
+      "id": "eggdelight:bacon_and_egg_cup",
+      "required": false
+    },
+    {
+      "id": "crabbersdelight:surf_and_turf",
+      "required": false
+    },
+    {
+      "id": "crabbersdelight:seafood_gumbo",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:cream_cheese",
+      "required": false
+    },
+    {
+      "id": "artifacts:eternal_steak",
+      "required": false
+    },
+    {
+      "id": "artifacts:everlasting_beef",
+      "required": false
+    },
+    {
       "id": "delightful:goat",
       "required": false
     },

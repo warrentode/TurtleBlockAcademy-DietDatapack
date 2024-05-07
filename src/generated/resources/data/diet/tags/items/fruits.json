@@ -1,6 +1,250 @@
 {
   "values": [
     {
+      "id": "aetherdelight:enchanted_pie_slice",
+      "required": false
+    },
+    {
+      "id": "aetherdelight:blueberry_pie_slice",
+      "required": false
+    },
+    {
+      "id": "domesticationinnovation:rotten_apple",
+      "required": false
+    },
+    {
+      "id": "festive_delight:christmas_tea",
+      "required": false
+    },
+    {
+      "id": "festive_delight:festive_chiken",
+      "required": false
+    },
+    {
+      "id": "hauntedharvest:rotten_apple",
+      "required": false
+    },
+    {
+      "id": "ends_delight:dragon_meat_stew",
+      "required": false
+    },
+    {
+      "id": "ends_delight:steamed_dragon_egg",
+      "required": false
+    },
+    {
+      "id": "ends_delight:dragon_leg_with_sauce",
+      "required": false
+    },
+    {
+      "id": "ends_delight:grilled_shulker",
+      "required": false
+    },
+    {
+      "id": "aetherdelight:swet_syrup",
+      "required": false
+    },
+    {
+      "id": "aetherdelight:aether_flower_tea",
+      "required": false
+    },
+    {
+      "id": "aetherdelight:glazed_apple",
+      "required": false
+    },
+    {
+      "id": "unusualend:chorus_stew",
+      "required": false
+    },
+    {
+      "id": "unusualend:chorus_tea",
+      "required": false
+    },
+    {
+      "id": "unusualend:chorus_pie",
+      "required": false
+    },
+    {
+      "id": "unusualend:chorus_juice",
+      "required": false
+    },
+    {
+      "id": "tconstruct:jeweled_apple",
+      "required": false
+    },
+    {
+      "id": "phantasm:oblifruit",
+      "required": false
+    },
+    {
+      "id": "phantasm:pream_berry",
+      "required": false
+    },
+    {
+      "id": "phantasm:chorus_fruit_salad",
+      "required": false
+    },
+    {
+      "id": "nethersdelight:nether_skewer",
+      "required": false
+    },
+    {
+      "id": "nethersdelight:magma_gelatin",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:pumpkin_soup",
+      "required": false
+    },
+    {
+      "id": "miners_delight:pumpkin_soup_cup",
+      "required": false
+    },
+    {
+      "id": "miners_delight:pasta_with_veggieballs",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:sweet_berry_milkshake",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:sweet_berry_ice_cream",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:sweet_berry_cookie",
+      "required": false
+    },
+    {
+      "id": "hauntedharvest:succotash",
+      "required": false
+    },
+    {
+      "id": "festive_delight:sugar_cane",
+      "required": false
+    },
+    {
+      "id": "ends_delight:stuffed_rice_cake",
+      "required": false
+    },
+    {
+      "id": "ends_delight:stir_fried_shulker_meat",
+      "required": false
+    },
+    {
+      "id": "ends_delight:chorus_flower_tea",
+      "required": false
+    },
+    {
+      "id": "ends_delight:ender_sauce",
+      "required": false
+    },
+    {
+      "id": "ends_delight:mixed_salad",
+      "required": false
+    },
+    {
+      "id": "ends_delight:end_barbecue_stick",
+      "required": false
+    },
+    {
+      "id": "ends_delight:dragon_breath_and_chorus_soup",
+      "required": false
+    },
+    {
+      "id": "ends_delight:chorus_fruit_popsicle",
+      "required": false
+    },
+    {
+      "id": "ends_delight:chorus_fruit_pie_slice",
+      "required": false
+    },
+    {
+      "id": "ends_delight:chorus_fruit_milk_tea",
+      "required": false
+    },
+    {
+      "id": "ends_delight:chorus_cookie",
+      "required": false
+    },
+    {
+      "id": "ends_delight:bubble_tea",
+      "required": false
+    },
+    {
+      "id": "ends_delight:assorted_salad",
+      "required": false
+    },
+    {
+      "id": "ecologics:prickly_pear",
+      "required": false
+    },
+    {
+      "id": "ecologics:cooked_prickly_pear",
+      "required": false
+    },
+    {
+      "id": "drinkbeer:beer_mug_sweet_berry_kriek",
+      "required": false
+    },
+    {
+      "id": "drinkbeer:beer_mug_pumpkin_kvass",
+      "required": false
+    },
+    {
+      "id": "drinkbeer:beer_mug_apple_lambic",
+      "required": false
+    },
+    {
+      "id": "create:honeyed_apple",
+      "required": false
+    },
+    {
+      "id": "create:chocolate_glazed_berries",
+      "required": false
+    },
+    {
+      "id": "crabbersdelight:shrimp_skewer",
+      "required": false
+    },
+    {
+      "id": "aetherdelight:swet_pudding",
+      "required": false
+    },
+    {
+      "id": "aetherdelight:bowl_of_enchanted_berries",
+      "required": false
+    },
+    {
+      "id": "aetherdelight:bowl_of_blue_berries",
+      "required": false
+    },
+    {
+      "id": "hauntedharvest:grim_apple",
+      "required": false
+    },
+    {
+      "id": "ends_delight:chorus_fruit_grain",
+      "required": false
+    },
+    {
+      "id": "delightful:cantaloupe_slice",
+      "required": false
+    },
+    {
+      "id": "delightful:cantaloupe",
+      "required": false
+    },
+    {
+      "id": "aether:enchanted_berry",
+      "required": false
+    },
+    {
+      "id": "aether:blue_berry",
+      "required": false
+    },
+    {
       "id": "nethersdelight:propelpearl",
       "required": false
     },

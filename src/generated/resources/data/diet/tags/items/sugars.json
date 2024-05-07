@@ -1,5 +1,281 @@
 {
   "values": [
+    {
+      "id": "aether:golden_gummy_swet",
+      "required": false
+    },
+    {
+      "id": "aether:blue_gummy_swet",
+      "required": false
+    },
+    {
+      "id": "aether:gingerbread_man",
+      "required": false
+    },
+    {
+      "id": "crabbersdelight:kelp_shake",
+      "required": false
+    },
+    {
+      "id": "festive_delight:christmas_tea",
+      "required": false
+    },
+    {
+      "id": "festive_delight:festive_chiken",
+      "required": false
+    },
+    {
+      "id": "aether:candy_cane",
+      "required": false
+    },
+    {
+      "id": "snowyspirit:gingerbread_cookie",
+      "required": false
+    },
+    {
+      "id": "snowyspirit:candy_cane",
+      "required": false
+    },
+    {
+      "id": "oceansdelight:honey_fried_kelp",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:hot_cocoa",
+      "required": false
+    },
+    {
+      "id": "miners_delight:hot_cocoa_cup",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:white_chocolate_bar",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:sweet_berry_cookie",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:piece_of_honey_cheese_cake",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:piece_of_chocolate_cheese_cake",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:piece_of_cake",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:mocha_coffee",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:milk_chocolate_bar",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:macchiato_coffee",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:latte_coffee",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:honey_cookie",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:golden_cookie",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:glow_berry_ice_cream",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:glow_berry_milkshake",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:expresso_coffee",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:dark_chocolate_bar",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:cream_ice_cream",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:cream_milkshake",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:cookie_of_unbinding",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:coffee_ice_cream",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:coffee_milkshake",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:chocolate_milkshake",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:chocolate_ice_cream",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:chocolate_cookie",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:cappuccino_coffee",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:brigadeiro_mix",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:brigadeiro",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:american_coffee",
+      "required": false
+    },
+    {
+      "id": "hauntedharvest:candy_corn",
+      "required": false
+    },
+    {
+      "id": "festive_delight:sugar_cane",
+      "required": false
+    },
+    {
+      "id": "festive_delight:gingerbread_creeper",
+      "required": false
+    },
+    {
+      "id": "festive_delight:gingerbread_man",
+      "required": false
+    },
+    {
+      "id": "festive_delight:gingerbread_cookie_sword",
+      "required": false
+    },
+    {
+      "id": "festive_delight:gingerbread_cookie_flake",
+      "required": false
+    },
+    {
+      "id": "ends_delight:stuffed_rice_cake",
+      "required": false
+    },
+    {
+      "id": "ends_delight:dragon_breath_soda",
+      "required": false
+    },
+    {
+      "id": "wildberries:cranberry_jam_sandwich",
+      "required": false
+    },
+    {
+      "id": "wildberries:blackberry_jam_sandwich",
+      "required": false
+    },
+    {
+      "id": "wildberries:raspberry_jam_sandwich",
+      "required": false
+    },
+    {
+      "id": "wildberries:blueberry_jam_sandwich",
+      "required": false
+    },
+    {
+      "id": "wildberries:glow_berry_jam_sandwich",
+      "required": false
+    },
+    {
+      "id": "wildberries:sweet_berry_jam_sandwich",
+      "required": false
+    },
+    {
+      "id": "wildberries:cranberry_jam",
+      "required": false
+    },
+    {
+      "id": "wildberries:blackberry_jam",
+      "required": false
+    },
+    {
+      "id": "wildberries:raspberry_jam",
+      "required": false
+    },
+    {
+      "id": "wildberries:blueberry_jam",
+      "required": false
+    },
+    {
+      "id": "wildberries:glow_berry_jam",
+      "required": false
+    },
+    {
+      "id": "wildberries:sweet_berry_jam",
+      "required": false
+    },
+    {
+      "id": "ends_delight:chorus_fruit_pie_slice",
+      "required": false
+    },
+    {
+      "id": "eggdelight:egg_pie_slice",
+      "required": false
+    },
+    {
+      "id": "drinkbeer:beer_mug_blaze_milk_stout",
+      "required": false
+    },
+    {
+      "id": "createaddition:honey_cake",
+      "required": false
+    },
+    {
+      "id": "createaddition:chocolate_cake",
+      "required": false
+    },
+    {
+      "id": "create:sweet_roll",
+      "required": false
+    },
+    {
+      "id": "create:honeyed_apple",
+      "required": false
+    },
+    {
+      "id": "create:chocolate_glazed_berries",
+      "required": false
+    },
+    {
+      "id": "create:bar_of_chocolate",
+      "required": false
+    },
+    {
+      "id": "aetherdelight:festive_sweets",
+      "required": false
+    },
     "minecraft:sugar",
     "minecraft:honey_bottle"
   ]

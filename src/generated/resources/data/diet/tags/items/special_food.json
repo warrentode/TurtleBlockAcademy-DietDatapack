@@ -1,3 +1,92 @@
 {
-  "values": []
+  "values": [
+    {
+      "id": "delightful:salmonberry_pie",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:shepherds_pie_block",
+      "required": false
+    },
+    {
+      "id": "wildberries:cranberry_pie",
+      "required": false
+    },
+    {
+      "id": "wildberries:blackberry_pie",
+      "required": false
+    },
+    {
+      "id": "wildberries:raspberry_pie",
+      "required": false
+    },
+    {
+      "id": "wildberries:blueberry_pie",
+      "required": false
+    },
+    {
+      "id": "wildberries:glow_berry_pie",
+      "required": false
+    },
+    {
+      "id": "wildberries:sweet_berry_pie",
+      "required": false
+    },
+    {
+      "id": "farmersrespite:rose_hip_pie",
+      "required": false
+    },
+    {
+      "id": "farmersrespite:coffee_cake",
+      "required": false
+    },
+    {
+      "id": "tconstruct:ichor_cake",
+      "required": false
+    },
+    {
+      "id": "tconstruct:sky_cake",
+      "required": false
+    },
+    {
+      "id": "tconstruct:magma_cake",
+      "required": false
+    },
+    {
+      "id": "tconstruct:ender_cake",
+      "required": false
+    },
+    {
+      "id": "tconstruct:earth_cake",
+      "required": false
+    },
+    {
+      "id": "tconstruct:blood_cake",
+      "required": false
+    },
+    {
+      "id": "supplementaries:pancake",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:cheese_cake",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:honey_cheese_cake",
+      "required": false
+    },
+    {
+      "id": "kawaiidishes:chocolate_cheese_cake",
+      "required": false
+    },
+    {
+      "id": "ends_delight:chorus_fruit_pie",
+      "required": false
+    },
+    {
+      "id": "eggdelight:egg_pie",
+      "required": false
+    }
+  ]
 }
